@@ -1,0 +1,123 @@
+***************************************************************
+                 nos_images/Asterix3.pbm 
+***************************************************************
+ 
+------------------ Avant simplification -----------------------
+ 
+
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 12958 points
+Le nombre total de segments est 12926 segments
+Le temps d'execution est de 0.063878 s
+
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 1 --------
+ 
+Le nombre de courbes de Bezier2 est de 964 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 3856 points
+Le nombre total de segments est 3824 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 3 --------
+ 
+Le nombre de courbes de Bezier2 est de 299 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 1196 points
+Le nombre total de segments est 1164 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 10 --------
+ 
+Le nombre de courbes de Bezier2 est de 158 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 632 points
+Le nombre total de segments est 600 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 30 --------
+ 
+Le nombre de courbes de Bezier2 est de 69 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 276 points
+Le nombre total de segments est 244 segments
+ 
+***************************************************************
+                 nos_images/Picasso-ColombesDeLaPaix.pbm 
+***************************************************************
+ 
+------------------ Avant simplification -----------------------
+ 
+
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 21870 points
+Le nombre total de segments est 21764 segments
+Le temps d'execution est de 0.126867 s
+
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 1 --------
+ 
+Le nombre de courbes de Bezier2 est de 1609 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 6436 points
+Le nombre total de segments est 6330 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 3 --------
+ 
+Le nombre de courbes de Bezier2 est de 587 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 2348 points
+Le nombre total de segments est 2242 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 10 --------
+ 
+Le nombre de courbes de Bezier2 est de 295 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 1180 points
+Le nombre total de segments est 1074 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 30 --------
+ 
+Le nombre de courbes de Bezier2 est de 148 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 592 points
+Le nombre total de segments est 486 segments
+ 
+***************************************************************
+                 nos_images/lettre-L-cursive.pbm 
+***************************************************************
+ 
+------------------ Avant simplification -----------------------
+ 
+
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 4231 points
+Le nombre total de segments est 4228 segments
+Le temps d'execution est de 0.025339 s
+
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 1 --------
+ 
+Le nombre de courbes de Bezier2 est de 255 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 1020 points
+Le nombre total de segments est 1017 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 3 --------
+ 
+Le nombre de courbes de Bezier2 est de 40 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 160 points
+Le nombre total de segments est 157 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 10 --------
+ 
+Le nombre de courbes de Bezier2 est de 26 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 104 points
+Le nombre total de segments est 101 segments
+ 
+------- Simplification par Courbe de Bezier 2 avec d = 30 --------
+ 
+Le nombre de courbes de Bezier2 est de 15 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 60 points
+Le nombre total de segments est 57 segments
+ 

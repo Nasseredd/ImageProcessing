@@ -1,0 +1,119 @@
+----------------- nos_images/JoaquimHock-LesArbres.pbm -----------------
+--------- Avant simplification ---------
+
+Le nombre de contour(s) est de 543
+Le nombre total de points est de 231827 points
+Le nombre total de segments est 231284 segments
+Le temps d'execution est de 4.116023 s
+
+------- Simplification avec d=1 --------
+ 
+Le nombre de contour(s) est de 543
+Le nombre total de points est de 27115 points
+Le nombre total de segments est 26572 segments
+ 
+------- Simplification avec d=2 --------
+ 
+Le nombre de contour(s) est de 543
+Le nombre total de points est de 13633 points
+Le nombre total de segments est 13090 segments
+ 
+----------------- nos_images/cheval.pbm -----------------
+--------- Avant simplification ---------
+
+Le nombre de contour(s) est de 59
+Le nombre total de points est de 32061 points
+Le nombre total de segments est 32002 segments
+Le temps d'execution est de 0.903130 s
+
+------- Simplification avec d=1 --------
+ 
+Le nombre de contour(s) est de 59
+Le nombre total de points est de 3216 points
+Le nombre total de segments est 3157 segments
+ 
+------- Simplification avec d=2 --------
+ 
+Le nombre de contour(s) est de 59
+Le nombre total de points est de 1440 points
+Le nombre total de segments est 1381 segments
+ 
+----------------- nos_images/elephant-gotlib.pbm -----------------
+--------- Avant simplification ---------
+
+Le nombre de contour(s) est de 313
+Le nombre total de points est de 115877 points
+Le nombre total de segments est 115564 segments
+Le temps d'execution est de 3.481176 s
+
+------- Simplification avec d=1 --------
+ 
+Le nombre de contour(s) est de 313
+Le nombre total de points est de 13502 points
+Le nombre total de segments est 13189 segments
+ 
+------- Simplification avec d=2 --------
+ 
+Le nombre de contour(s) est de 313
+Le nombre total de points est de 4594 points
+Le nombre total de segments est 4281 segments
+ 
+----------------- nos_images/goudyini-A.pbm -----------------
+--------- Avant simplification ---------
+
+Le nombre de contour(s) est de 258
+Le nombre total de points est de 73702 points
+Le nombre total de segments est 73444 segments
+Le temps d'execution est de 0.930778 s
+
+------- Simplification avec d=1 --------
+ 
+Le nombre de contour(s) est de 258
+Le nombre total de points est de 5593 points
+Le nombre total de segments est 5335 segments
+ 
+------- Simplification avec d=2 --------
+ 
+Le nombre de contour(s) est de 258
+Le nombre total de points est de 2971 points
+Le nombre total de segments est 2713 segments
+ 
+----------------- nos_images/image_poly_tache6.pbm -----------------
+--------- Avant simplification ---------
+
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 491 points
+Le nombre total de segments est 488 segments
+Le temps d'execution est de 0.001213 s
+
+------- Simplification avec d=1 --------
+ 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 71 points
+Le nombre total de segments est 68 segments
+ 
+------- Simplification avec d=2 --------
+ 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 47 points
+Le nombre total de segments est 44 segments
+ 
+----------------- nos_images/papillon2.pbm -----------------
+--------- Avant simplification ---------
+
+Le nombre de contour(s) est de 140
+Le nombre total de points est de 18352 points
+Le nombre total de segments est 18212 segments
+Le temps d'execution est de 0.285190 s
+
+------- Simplification avec d=1 --------
+ 
+Le nombre de contour(s) est de 140
+Le nombre total de points est de 2053 points
+Le nombre total de segments est 1913 segments
+ 
+------- Simplification avec d=2 --------
+ 
+Le nombre de contour(s) est de 140
+Le nombre total de points est de 1177 points
+Le nombre total de segments est 1037 segments

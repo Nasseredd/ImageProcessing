@@ -1,0 +1,124 @@
+---------------------------------------------------------------
+------------------------- nos_images/Asterix3.pbm 
+---------------------------------------------------------------
+ 
+------------------ Avant simplification -----------------------
+ 
+
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 12958 points
+Le nombre total de segments est 12926 segments
+Le temps d'execution est de 0.064242 s
+
+ 
+------- Simplification par Courbe de Bezier avec d = 1 --------
+ 
+Le nombre de courbes de Bezier3 est de 648 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 2592 points
+Le nombre total de segments est 2560 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 3 --------
+ 
+Le nombre de courbes de Bezier3 est de 242 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 968 points
+Le nombre total de segments est 936 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 10 --------
+ 
+Le nombre de courbes de Bezier3 est de 135 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 540 points
+Le nombre total de segments est 508 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 30 --------
+ 
+Le nombre de courbes de Bezier3 est de 58 
+Le nombre de contour(s) est de 32
+Le nombre total de points est de 232 points
+Le nombre total de segments est 200 segments
+ 
+---------------------------------------------------------------
+------------------------- nos_images/Picasso-ColombesDeLaPaix.pbm 
+---------------------------------------------------------------
+ 
+------------------ Avant simplification -----------------------
+ 
+
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 21870 points
+Le nombre total de segments est 21764 segments
+Le temps d'execution est de 0.125656 s
+
+ 
+------- Simplification par Courbe de Bezier avec d = 1 --------
+ 
+Le nombre de courbes de Bezier3 est de 1155 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 4620 points
+Le nombre total de segments est 4514 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 3 --------
+ 
+Le nombre de courbes de Bezier3 est de 451 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 1804 points
+Le nombre total de segments est 1698 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 10 --------
+ 
+Le nombre de courbes de Bezier3 est de 230 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 920 points
+Le nombre total de segments est 814 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 30 --------
+ 
+Le nombre de courbes de Bezier3 est de 138 
+Le nombre de contour(s) est de 106
+Le nombre total de points est de 552 points
+Le nombre total de segments est 446 segments
+ 
+
+---------------------------------------------------------------
+------------------------- nos_images/lettre-L-cursive.pbm 
+---------------------------------------------------------------
+ 
+------------------ Avant simplification -----------------------
+ 
+
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 4231 points
+Le nombre total de segments est 4228 segments
+Le temps d'execution est de 0.024242 s
+
+ 
+------- Simplification par Courbe de Bezier avec d = 1 --------
+ 
+Le nombre de courbes de Bezier3 est de 157 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 628 points
+Le nombre total de segments est 625 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 3 --------
+ 
+Le nombre de courbes de Bezier3 est de 32 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 128 points
+Le nombre total de segments est 125 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 10 --------
+ 
+Le nombre de courbes de Bezier3 est de 22 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 88 points
+Le nombre total de segments est 85 segments
+ 
+------- Simplification par Courbe de Bezier avec d = 30 --------
+ 
+Le nombre de courbes de Bezier3 est de 13 
+Le nombre de contour(s) est de 3
+Le nombre total de points est de 52 points
+Le nombre total de segments est 49 segments
+ 
